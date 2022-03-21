@@ -1,0 +1,20 @@
+C:\Users\Amiral\Desktop\Serial Communication\bin\Debug\Serial Communication.exe.config
+C:\Users\Amiral\Desktop\Serial Communication\bin\Debug\Serial Communication.exe
+C:\Users\Amiral\Desktop\Serial Communication\bin\Debug\Serial Communication.pdb
+C:\Users\Amiral\Desktop\Serial Communication\obj\Debug\Serial Communication.csproj.AssemblyReference.cache
+C:\Users\Amiral\Desktop\Serial Communication\obj\Debug\Serial_Communication.Form1.resources
+C:\Users\Amiral\Desktop\Serial Communication\obj\Debug\Serial_Communication.Properties.Resources.resources
+C:\Users\Amiral\Desktop\Serial Communication\obj\Debug\Serial Communication.csproj.GenerateResource.cache
+C:\Users\Amiral\Desktop\Serial Communication\obj\Debug\Serial Communication.csproj.CoreCompileInputs.cache
+C:\Users\Amiral\Desktop\Serial Communication\obj\Debug\Serial Communication.exe
+C:\Users\Amiral\Desktop\Serial Communication\obj\Debug\Serial Communication.pdb
+E:\Projeler\Teknofest\İstiklal Drone Team\2021\Serial Communication\bin\Debug\Serial Communication.exe.config
+E:\Projeler\Teknofest\İstiklal Drone Team\2021\Serial Communication\bin\Debug\Serial Communication.exe
+E:\Projeler\Teknofest\İstiklal Drone Team\2021\Serial Communication\bin\Debug\Serial Communication.pdb
+E:\Projeler\Teknofest\İstiklal Drone Team\2021\Serial Communication\obj\Debug\Serial Communication.csproj.AssemblyReference.cache
+E:\Projeler\Teknofest\İstiklal Drone Team\2021\Serial Communication\obj\Debug\Serial_Communication.Form1.resources
+E:\Projeler\Teknofest\İstiklal Drone Team\2021\Serial Communication\obj\Debug\Serial_Communication.Properties.Resources.resources
+E:\Projeler\Teknofest\İstiklal Drone Team\2021\Serial Communication\obj\Debug\Serial Communication.csproj.GenerateResource.cache
+E:\Projeler\Teknofest\İstiklal Drone Team\2021\Serial Communication\obj\Debug\Serial Communication.csproj.CoreCompileInputs.cache
+E:\Projeler\Teknofest\İstiklal Drone Team\2021\Serial Communication\obj\Debug\Serial Communication.exe
+E:\Projeler\Teknofest\İstiklal Drone Team\2021\Serial Communication\obj\Debug\Serial Communication.pdb
