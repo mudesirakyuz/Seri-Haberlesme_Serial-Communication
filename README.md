@@ -1,6 +1,5 @@
 # Seri Haberleşme / Serial Communication
-
-![](https://github.com/mudesirakyuz/Serial-Communication/blob/main/Serial%20Communication/img.png)
+<img src="Serial%20Communication/img.png" width="200"/>
 
 ***TR***
 - Uygulamada seri haberleşme ile veri alma işlemi gerçekleştirilir.
