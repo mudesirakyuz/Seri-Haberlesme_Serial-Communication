@@ -1,4 +1,4 @@
-# Serial Communication
+# Seri Haberleşme / Serial Communication
 
 ![](https://github.com/mudesirakyuz/Serial-Communication/blob/main/Serial%20Communication/img.png)
 
